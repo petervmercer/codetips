@@ -49,46 +49,35 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="98" />
+          <entry key="md" value="493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="98" />
+          <entry key="Markdown" value="493" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Git Tips/Basics/Status.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Git Tips/Basics/Remove_File.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -113,15 +102,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Reactjs/Coding Standards/NodeBasedSetup.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
+              <first_editor relative-caret-position="255">
                 <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-                <folding>
-                  <element signature="e#0#26#0" expanded="true" />
-                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Reactjs/Coding Standards/NamingConventions.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="340">
+                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -238,6 +236,7 @@
         <option value="$PROJECT_DIR$/Git Tips/GitHub/Changing_Fetch_Push.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Reactjs/Coding Standards/NodeBasedSetup.md" />
+        <option value="$PROJECT_DIR$/Reactjs/Coding Standards/NamingConventions.md" />
       </list>
     </option>
   </component>
@@ -284,7 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,10 +311,17 @@
               <item name="codetips" type="462c0819:PsiDirectoryNode" />
               <item name="Reactjs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codetips" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codetips" type="462c0819:PsiDirectoryNode" />
+              <item name="Reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding Standards" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,16 +362,18 @@
       <workItem from="1540419917290" duration="5669000" />
       <workItem from="1540445018541" duration="62000" />
       <workItem from="1540446314824" duration="1097000" />
+      <workItem from="1540532968284" duration="1412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23102000" />
+    <option name="totallyTimeSpent" value="24514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="975" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23369175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23727599" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -644,6 +651,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Git Tips/GitHub/Adding_Remote_Repository.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Git Tips/GitHub/Changing_Fetch_Push.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -684,6 +701,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MySQL/Tables/Copy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -694,31 +718,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Git Tips/GitHub/Adding_Remote_Repository.md">
+    <entry file="file://$PROJECT_DIR$/Reactjs/Coding Standards/NodeBasedSetup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="612">
-            <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="51" />
+          <first_editor relative-caret-position="255">
+            <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reactjs/Coding Standards/NodeBasedSetup.md">
+    <entry file="file://$PROJECT_DIR$/Reactjs/Coding Standards/NamingConventions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            <folding>
-              <element signature="e#0#26#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="340">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>
