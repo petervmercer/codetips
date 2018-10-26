@@ -1,5 +1,13 @@
 ### Reactjs naming conventions
 
+## Creating a Component
+
+File name in Pascal case in a ./Components directory
+
+Use .jsx extension
+
+
+
 ## Import Component naming
 
 Use PascalCase for Component file names and use PascalCase if the Component is a direct reference and not an instance
