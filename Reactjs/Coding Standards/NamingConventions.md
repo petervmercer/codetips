@@ -2,9 +2,17 @@
 
 ## Creating a Component
 
-File name in Pascal case in a ./Components directory
+File name in Pascal case in a ./components directory
+
+```jsx harmony
+import MyReactComponent from './components/MyReactComponent';
+```
+
+
 
 Use .jsx extension
+
+Or if you are using Flow use .js
 
 
 
@@ -14,7 +22,7 @@ Use PascalCase for Component file names and use PascalCase if the Component is a
 
 Direct reference to component using its PascalCase Name
 ```jsx harmony
-import MyReactComponent from './MyReactComponent';
+import MyReactComponent from './components/MyReactComponent';
 ```
 
 For an instance use camelCase
@@ -24,8 +32,20 @@ import myReactComponentInstance from './MyReactComponent';
 
 ## Variables
 
+camelCase
+
 ## Classes
 
+PascalCase
 
+```js
+class MyClassName extends React.Component {
+    
+}
+```
 
 ## Functions
+
+### Event functions
+
+### Event Handling
