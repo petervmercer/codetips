@@ -34,6 +34,16 @@ import myReactComponentInstance from './MyReactComponent';
 
 camelCase
 
+Public
+```ecmascript 6
+let defaultColor = '#FFF';
+```
+Private
+```ecmascript 6
+ _numberOfColors = 5;
+```
+
+
 ## Classes
 
 PascalCase
@@ -44,7 +54,30 @@ class MyClassName extends React.Component {
 }
 ```
 
-## Functions
+Instance of a class
+
+```ecmascript 6
+myInstanceClassName = new MyClassName();
+```
+
+## Functions/Methods
+
+camelCase
+
+private methods in a class should proceed with an underscore _
+
+```ecmascript 6
+class MyClassName extends React.Component {
+    
+    _myPrivateFunction() {
+        
+    }
+    
+    myPublicFunction() {
+        
+    }
+}
+```
 
 ### Event functions
 
