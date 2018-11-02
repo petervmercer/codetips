@@ -81,4 +81,8 @@ class MyClassName extends React.Component {
 
 ### Event functions
 
+onEventName
+
 ### Event Handling
+
+onHandleEvent
