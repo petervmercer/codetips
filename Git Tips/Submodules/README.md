@@ -14,9 +14,10 @@ $ cd plugins/
 ```
 
 ```text
-$ git submodule add https://github.com/petervmercer/submodule
+$ git submodule add -b https://github.com/petervmercer/submodule
 
 ```
+Using the -b argument means we want to follow the master branch of the submodule repository, and after running this command we'll have an empty submodule directory.
 
 ### Removing a submodule - that you added and want to remove from core
 
