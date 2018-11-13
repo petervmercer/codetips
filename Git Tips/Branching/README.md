@@ -67,12 +67,30 @@ $ git branch new_branch
 
 ```text
 $ git checkout -b new_checkout_b_branch
-Switched to a new branch 'new_checkout_b_branch'
-
+> Switched to a new branch 'new_checkout_b_branch'
 ```
 
 ## Which HEAD id git pointing to?
 
 ```text
-cat .git/HEAD
+$ cat .git/HEAD
+```
+
+## Difference between Branches
+
+Use spread operator [..]
+
+```text
+$ git diff master..new_branch
+
+//Use color words on one line
+
+$ git diff --color-words master..new_branch
+```
+
+## What branches code is included in your branch
+
+Useful to know where the branch was derived from.
+```text
+$ git branch --merged
 ```
