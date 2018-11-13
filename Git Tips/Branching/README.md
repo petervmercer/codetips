@@ -94,3 +94,16 @@ Useful to know where the branch was derived from.
 ```text
 $ git branch --merged
 ```
+
+## Renaming branches
+
+```text
+$ git branch -m old_branch new_branch
+```
+
+## Deleting a branch
+
+Can not delete branch you are on.  You will get a warning of there are chnges that have not been merged.
+```text
+$ git branch -d old_branch
+```
