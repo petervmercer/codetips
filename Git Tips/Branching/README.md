@@ -38,6 +38,17 @@ $ cat .git/refs/heads/new_branch
 
 ```
 
+### Show Commit
+
+```text
+git show HEAD
+
+// OR
+
+git show efghij93 //SHA value for HEAD
+
+```
+
 ## Looking at available branches 
 
 ```text
