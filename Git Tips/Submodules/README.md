@@ -15,7 +15,6 @@ $ cd plugins/
 
 ```text
 $ git submodule add -b https://github.com/petervmercer/submodule
-
 ```
 Using the -b argument means we want to follow the master branch of the submodule repository, and after running this command we'll have an empty submodule directory.
 
@@ -27,3 +26,20 @@ Using the -b argument means we want to follow the master branch of the submodule
 4. Run git rm –cached path_to_submodule # Note: a/submodule (no trailing slash).
 5. Commit
 6. delete the now untracked submodule files.
+
+## Remote
+
+### initiatiating submodules
+
+```text
+$ git submodule init
+```
+
+### updating
+
+```text
+$ git submodule update
+// Specific update
+
+$ git submodule update --remote plugin/submodule
+```
