@@ -68,6 +68,12 @@ $ git branch new_branch
 ```text
 $ git checkout -b new_checkout_b_branch
 > Switched to a new branch 'new_checkout_b_branch'
+
+// Make a change and commit
+
+// Send to remote
+git push -u origin new_checkout_b_branch
+
 ```
 
 ## Which HEAD id git pointing to?
