@@ -33,6 +33,8 @@ Using the -b argument means we want to follow the master branch of the submodule
 
 ```text
 $ git submodule init
+OR
+$ git submodule update --init
 ```
 
 ### updating

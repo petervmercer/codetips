@@ -76,6 +76,13 @@ git push -u origin new_checkout_b_branch
 
 ```
 
+### Switching to a branch
+
+```text
+$ git checkout branch_name
+```
+
+
 ## Which HEAD id git pointing to?
 
 ```text
