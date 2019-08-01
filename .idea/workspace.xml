@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git Tips/Branching/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git Tips/Branching/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git Tips/Submodules/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git Tips/Submodules/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +26,7 @@
   <component name="ProjectId" id="1OkvemBYynSlVf3KED8hrVFV7mh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564534506197</updated>
-      <workItem from="1564534507794" duration="2342000" />
+      <workItem from="1564534507794" duration="3826000" />
     </task>
     <servers />
   </component>
