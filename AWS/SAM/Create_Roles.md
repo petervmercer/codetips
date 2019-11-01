@@ -18,7 +18,7 @@ aws iam create-role --role-name ${role_name} \
 
 sleep 1
 #Add and attach DynamoDB Policy
-dynamo_policy=dynamo-readonly-user-visits
+dynamo_policy=dynamo-readonly-table-names
 aws iam create-policy --policy-name $dynamo_policy \
     --policy-document file://../../IAM/$dynamo_policy.json \
     --profile $profile || true

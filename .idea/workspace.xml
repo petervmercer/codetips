@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AWS/SAM/Create_Roles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS/SAM/Installation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS/SAM/Instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS/SAM/Permissions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypeScript Tips/CreatingClasses.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypeScript Tips/setup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS/SAM/Create_Roles.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWS/SAM/Create_Roles.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +55,23 @@
       <workItem from="1569981461672" duration="1301000" />
       <workItem from="1570052591781" duration="27000" />
       <workItem from="1571190873679" duration="2718000" />
-      <workItem from="1571270978311" duration="5165000" />
+      <workItem from="1571270978311" duration="5472000" />
+      <workItem from="1571286271949" duration="756000" />
+      <workItem from="1572237616177" duration="830000" />
+      <workItem from="1572387297034" duration="1476000" />
+      <workItem from="1572469472030" duration="4291000" />
+      <workItem from="1572558492367" duration="2081000" />
+      <workItem from="1572569031777" duration="1684000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../type-script/index.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
