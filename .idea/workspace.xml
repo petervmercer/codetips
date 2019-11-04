@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TypeScript Tips/CreatingClasses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypeScript Tips/setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypeScript Tips/GatsbySetup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AWS/SAM/Create_Roles.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWS/SAM/Create_Roles.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/OpProjects/scorm-report" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -61,7 +59,10 @@
       <workItem from="1572387297034" duration="1476000" />
       <workItem from="1572469472030" duration="4291000" />
       <workItem from="1572558492367" duration="2081000" />
-      <workItem from="1572569031777" duration="1684000" />
+      <workItem from="1572569031777" duration="2284000" />
+      <workItem from="1572816115875" duration="293000" />
+      <workItem from="1572820757068" duration="1824000" />
+      <workItem from="1572847936018" duration="860000" />
     </task>
     <servers />
   </component>
