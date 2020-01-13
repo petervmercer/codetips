@@ -120,3 +120,9 @@ Can not delete branch you are on.  You will get a warning of there are chnges th
 ```text
 $ git branch -d old_branch
 ```
+
+## Getting a remote branch for the first time
+
+```shell script
+$ git checkout --track origin/my_remote_branch
+```
