@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TypeScript Tips/GatsbySetup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypeScript Tips/React.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/OpProjects/scorm-report" />
+    <property name="last_opened_file_path" value="C:/OpProjects/scorm-report-react" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -62,7 +62,17 @@
       <workItem from="1572569031777" duration="2284000" />
       <workItem from="1572816115875" duration="293000" />
       <workItem from="1572820757068" duration="1824000" />
-      <workItem from="1572847936018" duration="860000" />
+      <workItem from="1572847936018" duration="1105000" />
+      <workItem from="1572901869309" duration="1004000" />
+      <workItem from="1572904338832" duration="1717000" />
+      <workItem from="1572938336062" duration="1687000" />
+      <workItem from="1572991352262" duration="2067000" />
+      <workItem from="1573448984816" duration="631000" />
+      <workItem from="1573457040926" duration="618000" />
+      <workItem from="1573506466005" duration="375000" />
+      <workItem from="1573509598496" duration="475000" />
+      <workItem from="1573510737753" duration="1824000" />
+      <workItem from="1573531822468" duration="599000" />
     </task>
     <servers />
   </component>
