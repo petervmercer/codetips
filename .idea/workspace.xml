@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Git Tips/Branching/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git Tips/Branching/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/API-Gateway/basic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/security/info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +74,11 @@
       <workItem from="1573509598496" duration="475000" />
       <workItem from="1573510737753" duration="1824000" />
       <workItem from="1573531822468" duration="599000" />
-      <workItem from="1578955060536" duration="82000" />
+      <workItem from="1578955060536" duration="682000" />
+      <workItem from="1578968680768" duration="12000" />
+      <workItem from="1579654350082" duration="786000" />
+      <workItem from="1579727711665" duration="4869000" />
+      <workItem from="1579819444793" duration="618000" />
     </task>
     <servers />
   </component>
