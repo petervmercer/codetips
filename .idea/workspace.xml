@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AWS/CloudFront/creating-signed-custom-cookies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/Certification/IAM/intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +86,24 @@
       <workItem from="1585689800054" duration="1196000" />
       <workItem from="1585878462276" duration="630000" />
       <workItem from="1586125607781" duration="1256000" />
-      <workItem from="1586213956887" duration="5024000" />
+      <workItem from="1586213956887" duration="5157000" />
+      <workItem from="1590470204014" duration="775000" />
+      <workItem from="1590720395737" duration="829000" />
+      <workItem from="1590965866839" duration="633000" />
+      <workItem from="1591049219427" duration="607000" />
+      <workItem from="1591834835410" duration="1039000" />
+      <workItem from="1591837087441" duration="8000" />
+      <workItem from="1591951714475" duration="429000" />
+      <workItem from="1592261271980" duration="607000" />
+      <workItem from="1592792350825" duration="1207000" />
+      <workItem from="1600069108044" duration="1062000" />
+      <workItem from="1600315438106" duration="1199000" />
+      <workItem from="1600384089731" duration="667000" />
+      <workItem from="1600418667912" duration="1849000" />
+      <workItem from="1600573081461" duration="1236000" />
+      <workItem from="1600728640696" duration="2448000" />
+      <workItem from="1600815410800" duration="1286000" />
+      <workItem from="1606206858810" duration="661000" />
     </task>
     <servers />
   </component>
