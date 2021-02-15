@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AWS/Certification/IAM/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/Certification/EC2/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/Certification/EC2/pricing.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/OpProjects/scorm-report-react" />
+    <property name="last_opened_file_path" value="C:/Books/fullstack-react-with-typescript-book-r4-basic-code/fullstack-react-with-typescript-basic-code/01-first-app/completed" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -103,7 +104,25 @@
       <workItem from="1600573081461" duration="1236000" />
       <workItem from="1600728640696" duration="2448000" />
       <workItem from="1600815410800" duration="1286000" />
-      <workItem from="1606206858810" duration="661000" />
+      <workItem from="1606206858810" duration="1336000" />
+      <workItem from="1606360216713" duration="787000" />
+      <workItem from="1606445450097" duration="1293000" />
+      <workItem from="1606691565521" duration="1344000" />
+      <workItem from="1606772479450" duration="618000" />
+      <workItem from="1607376911632" duration="614000" />
+      <workItem from="1607999006630" duration="2821000" />
+      <workItem from="1608090574927" duration="599000" />
+      <workItem from="1608160061111" duration="632000" />
+      <workItem from="1608164781632" duration="905000" />
+      <workItem from="1608242495278" duration="1210000" />
+      <workItem from="1608502145512" duration="665000" />
+      <workItem from="1608588417334" duration="621000" />
+      <workItem from="1608594210572" duration="1236000" />
+      <workItem from="1612243965391" duration="1227000" />
+      <workItem from="1612317930583" duration="612000" />
+      <workItem from="1612388739333" duration="1530000" />
+      <workItem from="1612474454880" duration="1206000" />
+      <workItem from="1612738001490" duration="639000" />
     </task>
     <servers />
   </component>
