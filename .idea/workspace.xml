@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AWS/Certification/EC2/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS/Certification/EC2/pricing.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git Tips/Merge/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git Tips/Merge/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +122,8 @@
       <workItem from="1612388739333" duration="1530000" />
       <workItem from="1612474454880" duration="1206000" />
       <workItem from="1612738001490" duration="639000" />
+      <workItem from="1613364791895" duration="1100000" />
+      <workItem from="1613426147972" duration="912000" />
     </task>
     <servers />
   </component>
