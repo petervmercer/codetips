@@ -83,7 +83,7 @@ $ git config --global user.email "myemail@test.com"
 ```text
 $ git config --list
 
-> user.name=Peter Mercer
+> user.name=Persons name
 > user.email=myemail@test.com
 
 $ git config user.name
@@ -92,8 +92,8 @@ $ git config user.name
 
 $ cat .gitconfig
 [user]
-        name = Peter Mercer
-        email = peter@vizipix.com
+        name = Persons Name
+        email = myemail@test.com
 [color]
         ui = true
 [core]

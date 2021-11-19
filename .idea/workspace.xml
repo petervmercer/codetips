@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GatsbyJs/setup-cli.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GatsbyJs/setup-gatsby-typescript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/UpgradeOnWindows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git Tips/Config/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git Tips/Config/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +18,19 @@
   </component>
   <component name="ProjectId" id="1OkvemBYynSlVf3KED8hrVFV7mh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Books/fullstack-react-with-typescript-book-r4-basic-code/fullstack-react-with-typescript-basic-code/01-first-app/completed" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/nps-sharedlearning-npc/npc-gatsby" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -120,29 +119,46 @@
       <workItem from="1612474454880" duration="1206000" />
       <workItem from="1612738001490" duration="639000" />
       <workItem from="1613364791895" duration="1100000" />
-      <workItem from="1613426147972" duration="1478000" />
+      <workItem from="1613426147972" duration="2089000" />
+      <workItem from="1613454808725" duration="87000" />
+      <workItem from="1613467780420" duration="17000" />
+      <workItem from="1614680158368" duration="622000" />
+      <workItem from="1614720622413" duration="614000" />
+      <workItem from="1616970296815" duration="6302000" />
+      <workItem from="1617057374641" duration="242000" />
+      <workItem from="1619407651122" duration="662000" />
+      <workItem from="1619477227101" duration="17000" />
+      <workItem from="1627954212399" duration="633000" />
+      <workItem from="1632908143497" duration="612000" />
+      <workItem from="1633048022245" duration="601000" />
+      <workItem from="1633060882849" duration="600000" />
+      <workItem from="1633911124950" duration="612000" />
+      <workItem from="1634682369526" duration="2228000" />
+      <workItem from="1634764211158" duration="601000" />
+      <workItem from="1634789661015" duration="607000" />
+      <workItem from="1634855984661" duration="36000" />
+      <workItem from="1635138829477" duration="702000" />
+      <workItem from="1635379550889" duration="1221000" />
+      <workItem from="1636327371575" duration="1451000" />
+      <workItem from="1636416918846" duration="615000" />
+      <workItem from="1636668640935" duration="22000" />
+      <workItem from="1637284602852" duration="5179000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/../type-script/index.js" />
-      </list>
-    </option>
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
