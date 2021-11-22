@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab387b-28c2-4356-a0a5-4edf346f77ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GatsbyJs/setup-cli.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GatsbyJs/setup-gatsby-typescript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UpgradeOnWindows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/Certification/S3/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/Certification/S3/storage-classes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git Tips/Config/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git Tips/Config/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +141,7 @@
       <workItem from="1636416918846" duration="615000" />
       <workItem from="1636668640935" duration="22000" />
       <workItem from="1637284602852" duration="5179000" />
+      <workItem from="1637549023719" duration="4839000" />
     </task>
     <servers />
   </component>
